@@ -1,6 +1,6 @@
 # V-Hackaton_Wizja-Rozwoju_2022
 
-# [Repozytorium](https://github.com/Baro-coder/V-Hackaton_Wizja-Rozwoju_2022)
+# [Repozytorium](https://github.com/Baro-coder/V-Hackaton_Wizja-Rozwoju_2022)[^repo]
 
 # Wydarzenie[^event]
 ## Forum Wizja Rozwoju 2022
@@ -95,6 +95,7 @@ ___
   <img width="300" height="400" src="https://user-images.githubusercontent.com/74451381/175023131-d9e3073e-97c7-489d-8707-207f73dc9bbc.jpg">
 </p>
 
+[^repo]: Repozytorium
 [^event]: Wydarzenie
 [^team]: Zespół
 [^results]: Wyniki
